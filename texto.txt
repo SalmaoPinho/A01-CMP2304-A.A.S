@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 oi 
 andfauhsdjkabnsdjkbjkbf
 
+=======
+oi
+>>>>>>> 5b3c40d470893aabca4fe0f6b0fba8a147e7f47c
